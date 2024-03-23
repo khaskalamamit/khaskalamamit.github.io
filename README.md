@@ -4,7 +4,7 @@
 Email - amitkumar.k@ggu.ac.in
 <br>Mobile Number 9425280380</h6></p>
 <p> Additional Responsibilities
-Co-coordinator,<b> Technology Enabling Centre,GGV</b>
+<br>Co-coordinator,<b> Technology Enabling Centre,GGV</b>
 <br>Assistant Coordinator <b>SAMARTH</b> </p>
 
 
