@@ -3,7 +3,10 @@
 <p><h6>Associate Professor, <Br> Department of Information Technology
 <br>Guru Ghasidas Vishwavidyalaya, Bilaspur<br>(Central University)
 Email - amitkumar.k@ggu.ac.in
-<br>Mobile Number 9425280380</h6></p>
+<br>Mobile Number 9425280380
+<br>Web : https://khaskalamamit.github.io
+<br>Linkedin : https://www.linkedin.com/in/amit-kumar-khaskalam-2143b08
+</h6></p>
 <p> Sharing Additional responsibilities in the university in addition to teaching
 <br>Co-coordinator,<b> Technology Enabling Centre,GGV</b>
 <br>Assistant Coordinator <b>SAMARTH</b> 
