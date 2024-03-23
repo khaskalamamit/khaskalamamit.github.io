@@ -1,4 +1,4 @@
-![Amit_220923n](https://github.com/khaskalamamit/khaskalamamit.github.io/assets/148521493/6a0b9ef2-532b-4408-b45f-b80045651c69) </br>
+![Amit_220923_sm](https://github.com/khaskalamamit/khaskalamamit.github.io/assets/148521493/e8803442-c825-4b75-b7b4-91ac5739822d) </br>
 <h6>Associate Professor, Information Technology</h6></br>
 <h5>Guru Ghasidas Vishwavidyalaya, Bilaspur </h5> (Central University) <br>.
 Co-coordinator,<b> Technology Enabling Centre,GGV</b>b<br>
