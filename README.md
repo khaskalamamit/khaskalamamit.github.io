@@ -6,10 +6,11 @@ Email - amitkumar.k@ggu.ac.in
 <br>Mobile Number 9425280380</h6></p>
 <p> Sharing Additional responsibilities in the university in addition to teaching
 <br>Co-coordinator,<b> Technology Enabling Centre,GGV</b>
-<br>Assistant Coordinator <b>SAMARTH</b> </p>
+<br>Assistant Coordinator <b>SAMARTH</b> 
+<br> Member Incubation Centre
+<br>Member IT Cell
 <br>Nodal Officer for CCTV surveillance in the university campus.
 <br>Nodal officer for Laptop distribution
-<br>Member IT Cell
 <br>Head of the department from 2000 to 2016.
 <br>Chairman of Board of studies from 2009 to 2016.
 <br>Member of Board of studies from 2000 to 2009.
@@ -31,5 +32,5 @@ of Exam.
 <br>Member of Disciplinary committee of Institute of Technology
 <br>Member Training and Placement cell from july 2007 to 2012.
 <br>First program coordinator of e-class room in 2003.
-<br>Member Technical committee of the university.
+<br>Member Technical committee of the university.</p>
 
