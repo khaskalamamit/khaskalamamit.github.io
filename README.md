@@ -1,5 +1,5 @@
-<b>Associate Professor, Information Technology</b>
-<b><h4>Guru Ghasidas Vishwavidyalaya</h4> (Central University) Bilaspur</b>
+Associate Professor, Information Technology</br>
+<h4>Guru Ghasidas Vishwavidyalaya</h4> (Central University) Bilaspur,<br>.
 Co-coordinator, Technology Enabling Centre,GGV
 Assistant Coordinator SAMARTH 
 
