@@ -1,1 +1,2 @@
-# khaskalamamit.github.io
+Dr. Amit Kumar Khaskalam
+Associate Professor, INformation Technology
