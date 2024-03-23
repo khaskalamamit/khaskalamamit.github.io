@@ -1,5 +1,6 @@
 ![Amit_220923_sm](https://github.com/khaskalamamit/khaskalamamit.github.io/assets/148521493/e8803442-c825-4b75-b7b4-91ac5739822d) 
 ![ibm_NEWsm](https://github.com/khaskalamamit/khaskalamamit.github.io/assets/148521493/5717304c-a05e-468d-a656-b462401fa0d4)
+![ideathon24_inaugural](https://github.com/khaskalamamit/khaskalamamit.github.io/assets/148521493/86fbd5c6-a10b-412d-8e30-d3a902134b7a)
 <p><h6>Associate Professor, <Br> Department of Information Technology
 <br>Guru Ghasidas Vishwavidyalaya, Bilaspur<br>(Central University)
 Email - amitkumar.k@ggu.ac.in
