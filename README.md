@@ -38,4 +38,5 @@ of Exam.
 <br>Member Training and Placement cell from july 2007 to 2012.
 <br>First program coordinator of e-class room in 2003.
 <br>Member Technical committee of the university.</p>
+![news2](https://github.com/khaskalamamit/khaskalamamit.github.io/assets/148521493/e2ddf08b-2104-4aae-9098-c9cb4b1ac31d)
 
