@@ -7,8 +7,8 @@ Email - amitkumar.k@ggu.ac.in
 <p> Sharing Additional responsibilities in the university in addition to teaching
 <br>Co-coordinator,<b> Technology Enabling Centre,GGV</b>
 <br>Assistant Coordinator <b>SAMARTH</b> 
-<br> Member Incubation Centre
-<br>Member IT Cell
+<br> Member <b>Incubation Centre</b>b>
+<br>Member <b>IT Cell</b>
 <br>Nodal Officer for CCTV surveillance in the university campus.
 <br>Nodal officer for Laptop distribution
 <br>Head of the department from 2000 to 2016.
