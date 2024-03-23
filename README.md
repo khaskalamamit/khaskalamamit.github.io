@@ -3,7 +3,7 @@
 <br>Guru Ghasidas Vishwavidyalaya, Bilaspur<br>(Central University)
 Email - amitkumar.k@ggu.ac.in
 <br>Mobile Number 9425280380</h6></p>
-<p> Additional Responsibilities
+<p> Sharing Additional responsibilities in the university in addition to teaching
 <br>Co-coordinator,<b> Technology Enabling Centre,GGV</b>
 <br>Assistant Coordinator <b>SAMARTH</b> </p>
 
